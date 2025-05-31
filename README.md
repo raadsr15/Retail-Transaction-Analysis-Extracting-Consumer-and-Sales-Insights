@@ -28,69 +28,42 @@ The dataset consists of over 38,000 transaction records with the following key f
 - Assess how promotions and discounts influence customer purchases
 - Explore the most preferred payment methods
 
-## Key Insights
 
-Convenience stores have the highest average transaction value, but overall differences between store types are minimal.
+##  Key Insights
 
-Convenience stores consistently show higher average spending across all seasons.
+- Convenience stores have the highest average transaction value, but differences among store types are minimal.
+- Convenience stores consistently perform well across all seasons.
+- Summer yields peak averages for Warehouse Clubs, Department Stores, Specialty Stores, and Convenience Stores.
+- Pharmacies dominate average transaction amounts in winter.
+- No store type reaches peak spending in fall.
+- Spring is the dominant season for all store types except Warehouse Clubs.
+- Debit cards are commonly used in high-value transactions.
+- Mobile payments are popular in New York and Atlanta.
+- Dallas shows the highest usage of debit cards and the lowest for mobile payments.
+- Dallas has the highest variation in payment method adoption (std dev: 48.98).
+- Miami and San Francisco have the lowest payment method discrepancies.
+- San Francisco has the highest mean sales; Boston has the lowest.
+- Discounts increase total sales by $24,739.
+- March sees the highest sales, rising sharply from February.
+- Sales drop from March to June, especially between May and June.
+- July and August see a minor recovery, but remain below spring levels.
+- September has the lowest sales volume.
+- October to January period shows strong recovery, especially from December to January (likely due to holiday sales).
+- Sales decline sharply again from January to February.
+- In February, May, July, and December, discounts show no significant sales impact.
+- October is the only month where non-discounted sales exceed discounted ones.
+- In 9 of 12 months, discounts drive higher sales.
+- City-wise sales differ by only about 1%.
+- Houston and Miami have high fall sales; Chicago has the lowest.
+- Miami shows the highest seasonal sales variance.
+- Miami records the lowest sales during winter among the three compared cities.
+- BOGO offers slightly outperform selective discounts in sales.
+- One-third of all transactions have no promotion.
+- Total sales from BOGO and selective discounts differ by only 0.37%.
+- BOGO is most effective in summer; selective discounts work best in fall and spring.
+- Promotions perform poorly in winter.
 
-Summer yields the highest average transactions for Warehouse Clubs, Department Stores, Specialty Stores, and Convenience Stores.
-
-Pharmacies dominate average transaction values only during winter.
-
-Fall never records peak average spending for any store type.
-
-Spring sees every store type (except Warehouse Clubs) reaching peak performance.
-
-Debit cards are most commonly used in high-value transactions.
-
-Mobile payments are popular in New York and Atlanta.
-
-In Dallas, debit card usage is the highest while mobile payment usage is the lowest among all states.
-
-Dallas exhibits the highest variation in payment method adoption (standard deviation: 48.98).
-
-Miami and San Francisco show the lowest discrepancies in payment preferences.
-
-San Francisco records the highest mean sales amount; Boston has the lowest.
-
-Applying discounts results in $24,739 more in total sales, indicating strong effectiveness.
-
-March has the highest recorded sales, a sharp rise from February.
-
-Sales decline steadily from March to June, with the steepest drop between May and June.
-
-July and August see a modest recovery in sales, though still below spring levels.
-
-September marks the lowest sales volume of the year.
-
-October to January shows a strong rebound in sales, peaking during the December to January transition (likely due to holidays like Black Friday and Christmas).
-
-A sharp drop in sales occurs from January to February.
-
-In February, May, July, and December, discounts do not significantly impact sales.
-
-October is the only month where non-discounted sales surpass discounted sales.
-
-In 9 out of 12 months, discounted products generate higher sales.
-
-City-wise sales differences are minimal—only around 1% of total sales.
-
-Houston and Miami show high fall-season sales; Chicago shows the lowest.
-
-Miami has the greatest seasonal sales variation; it also records the lowest winter sales.
-
-BOGO promotions slightly outperform selective discounts in total sales.
-
-One-third of all transactions involved no promotions.
-
-Total sales from BOGO and selective discounts differ by just 0.37%.
-
-BOGO promotions perform best in summer.
-
-Selective discounts are most effective in fall and spring.
-
-All promotions perform poorly in winter and are less effective during that season.
+---
 
 
 ## Technologies Used
