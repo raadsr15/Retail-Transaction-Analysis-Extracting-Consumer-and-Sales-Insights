@@ -1,9 +1,7 @@
 # Retail-Transaction-Analysis-Extracting-Consumer-and-Sales-Insights
 This project analyzes over 38,000 retail transactions to uncover insights into customer behavior, seasonal patterns, city-wise sales trends, and the impact of promotions and discounts. Implemented using Python, Pandas, Seaborn, and Matplotlib for effective data visualization and interpretation.
 
-# Retail Transaction Analysis: Extracting Consumer and Sales Insights
 
-This project explores a comprehensive dataset of retail transactions to analyze customer behavior, seasonal trends, and the effectiveness of promotions. By leveraging data visualization and exploratory data analysis techniques, the project offers insights that can inform marketing, inventory planning, and operational strategies.
 
 ## Dataset Overview
 
