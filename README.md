@@ -1,3 +1,6 @@
+
+![Flux_Dev_A_clean_and_modern_digital_dashboard_showcasing_retai_2](https://github.com/user-attachments/assets/87976b36-6051-46fd-b055-23d66018d2c7)
+
 # Retail-Transaction-Analysis-Extracting-Consumer-and-Sales-Insights
 This project analyzes over 38,000 retail transactions to uncover insights into customer behavior, seasonal patterns, city-wise sales trends, and the impact of promotions and discounts. Implemented using Python, Pandas, Seaborn, and Matplotlib for effective data visualization and interpretation.
 
